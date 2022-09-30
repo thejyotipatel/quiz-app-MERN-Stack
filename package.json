@@ -1,5 +1,5 @@
 {
-  "name": "quiz app",
+  "name": "quiz-app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -15,6 +15,14 @@
     "concurrently": "^7.4.0",
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
-    "nodemon": "^2.0.20"
+    "express-session": "^1.17.3",
+    "http-status-codes": "^2.2.0",
+    "mongoose": "^6.6.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "validator": "^13.7.0"
   }
 }
